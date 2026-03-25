@@ -1,0 +1,15 @@
+{
+  "name": "referral-telegram-bot",
+  "version": "1.0.0",
+  "description": "Referral Telegram Bot with admin panel",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
